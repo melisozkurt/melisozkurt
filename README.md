@@ -55,5 +55,10 @@
   
   ##
 
+  ![Snake animation](https://github.com/melis251/melis251/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://github.com/melis251">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=melis251.melis251&style=for-the-badge">
+<a>
   
   
