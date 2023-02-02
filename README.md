@@ -12,10 +12,6 @@
 👩‍💻 I'm currently learning C++
 <br>
 ☕ My actual aim is to make projects about AI and working with AI.
-<br>
-💬 ask me about anything, i am happy to help;
-<br>
-💼 any freelance work? do reach, [email](mailto:melisozkurt@hotmail.com) :)
 
 <div align="center">
   <br>
