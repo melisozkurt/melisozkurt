@@ -1,7 +1,7 @@
 ### 
 <div align="center">
   <h1>
-    Hi <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Melis Özkurt 
+    <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
     <p align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
     </p>
@@ -9,9 +9,8 @@
 </div>
 <br>
 
-👩‍💻 I'm currently learning C++
+
 <br>
-☕ My actual aim is to make projects about AI and working with AI.
 
 <div align="center">
   <br>
