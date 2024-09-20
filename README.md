@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! I'm Melis Özkurt.
+    Hi <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Melis Özkurt.
     <p align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
     </p>
@@ -44,7 +44,7 @@
  
 ### 🤝🏻 &nbsp;Connect with Me
 <div> 
-  <a href="https://www.linkedin.com/in/ay%C5%9Fe-erdan%C4%B1%C5%9Fman-5b1017202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/melis-ozkurt-ba9940278" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <a href="mailto:melisozkurt77@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </div>
