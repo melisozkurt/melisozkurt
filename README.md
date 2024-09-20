@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/melis251/melis251/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/melis251/melis251/output/snake.svg" alt="Snake animation" />
 
 ###
   
